@@ -1,2 +1,9 @@
-# FÁBRICA_DESAFIO_2024.1
-Repositório para as atividades da fábrica (Back-end)
+# CLIMA API ⛅
+
+Introdução-📝
+Neste projeto feito com Python e o Framework Django, consome uma **[API de clima](https://openweathermap.org/)**, e retorna todas as cidades do mundo para que o usuário consiga verificar o clima da cidade de seu interesse.
+
+## 
+
+
+
