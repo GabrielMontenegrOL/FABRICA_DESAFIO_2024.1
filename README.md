@@ -42,11 +42,11 @@ Neste projeto feito com Python e o Framework Django, consome uma **[API de clima
 - `pip install djangorestframework` Se for usar HTML | Template Não é necessário.
 - `pip install requests`
 - `pip freeze > requirements.txt`
-- 
+ 
 - Criando suas pastas 📂: 
 - `django-admin startproject (nome) .` COLOCA O .e o nome sem ()
 - `django-admin startapp (nome)` nome sem ()
-- 
+ 
 - Modifique ⚙ sua settings.py:
 - `--> projeto --> settings.py`
 `INSTALLED_APPS =` 
