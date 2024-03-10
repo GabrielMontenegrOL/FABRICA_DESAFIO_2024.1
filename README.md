@@ -27,10 +27,11 @@ Neste projeto feito com Python e o Framework Django, consome uma **[API de clima
 ![Screenshot 2024-03-10 002844](https://github.com/GabrielMontenegrOL/FABRICA_DESAFIO_2024.1/assets/131418339/b0b1b926-f034-4e2f-bdbc-314f5b5a9629)
 
 - Bom uso:
-  
+- 
 ![image](https://github.com/GabrielMontenegrOL/FABRICA_DESAFIO_2024.1/assets/131418339/f1ed1895-374e-46ba-b9ac-c9b96d597c84)
 
-##Como criar o seu do ZERO🤝
+
+## Como criar o seu do ZERO🤝
 
 - Crie uma pasta sem nada do vs code
 - Abra o terminal (CTRL + J)
@@ -67,7 +68,7 @@ mude para `'America/Recife'`
 
 -Agora adpete suas aplicações com o suas preferências! 🧠
 
-##Guia de comandos para te ajudar 🤝:
+## Guia de comandos para te ajudar 🤝:
 
 `python manage.py createsuperusers` Cria um login
 `python manage.py runserver` Rodar server
