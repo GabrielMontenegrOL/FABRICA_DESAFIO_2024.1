@@ -44,18 +44,18 @@ Neste projeto feito com Python e o Framework Django, consome uma **[API de clima
 - `pip freeze > requirements.txt`
 - 
 - Criando suas pastas 📂: 
-- 	`django-admin startproject (nome) .` COLOCA O .e o nome sem ()
+- `django-admin startproject (nome) .` COLOCA O .e o nome sem ()
 - `django-admin startapp (nome)` nome sem ()
 - 
 - Modifique ⚙ sua settings.py:
-- --> projeto --> settings.py
-	INSTALLED_APPS = 
-`	['rest_framework',
-	'meuprimeiroapp',
-	]`
-e dps vá no final e:
-	mude para `pt-br`
-	mude para `'America/Recife'`
+- `--> projeto --> settings.py`
+`INSTALLED_APPS =` 
+`['rest_framework',`
+`'meuprimeiroapp',`
+
+- e dps vá no final e:
+mude para `pt-br`
+mude para `'America/Recife'`
 
 -Crie uma pasta API 📂: 
 `serializers.py`
@@ -64,14 +64,23 @@ e dps vá no final e:
 
 -Agora adpete suas aplicações com o suas preferências! 🧠
 
-Guia de comandos para te ajudar 🤝:
+##Guia de comandos para te ajudar 🤝:
+
 `python manage.py createsuperusers` Cria um login
 `python manage.py runserver` Rodar server
 `(ctrl + c)` cancelar o runserve 
 
 -Migrações: 
 `python manage.py makemigrations`
-	`python manage.py migrate`
+`python manage.py migrate`
+
+## Exemplos de API para aplicar:
+https://viacep.com.br/ 
+https://pokeapi.co/
+https://openweathermap.org/
+
+
+
 
 
 
