@@ -36,16 +36,19 @@ Neste projeto feito com Python e o Framework Django, consome uma **[API de clima
 - Abra o terminal (CTRL + J)
 - Crie uma pasta nele: `python -m venv venv `
 - Ative sua VM: `\venv\Scripts\Activate.ps1`
-- 
+
+ 
 - Instale o DJANGO:
 - `pip install django`
 - `pip install djangorestframework` Se for usar HTML | Template Não é necessário.
 - `pip install requests`
 - `pip freeze > requirements.txt`
+
  
 - Criando suas pastas 📂: 
 - `django-admin startproject (nome) .` COLOCA O .e o nome sem ()
 - `django-admin startapp (nome)` nome sem ()
+
  
 - Modifique ⚙ sua settings.py:
 - `--> projeto --> settings.py`
