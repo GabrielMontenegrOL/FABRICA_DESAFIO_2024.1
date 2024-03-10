@@ -30,7 +30,7 @@ Neste projeto feito com Python e o Framework Django, consome uma **[API de clima
   
 ![image](https://github.com/GabrielMontenegrOL/FABRICA_DESAFIO_2024.1/assets/131418339/f1ed1895-374e-46ba-b9ac-c9b96d597c84)
 
-##Como criar o seu do ZERO 🤝
+##Como criar o seu do ZERO🤝
 
 - Crie uma pasta sem nada do vs code
 - Abra o terminal (CTRL + J)
