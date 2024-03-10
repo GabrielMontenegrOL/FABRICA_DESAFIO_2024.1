@@ -78,9 +78,9 @@ mude para `'America/Recife'`
 `python manage.py migrate`
 
 ## Exemplos de API para aplicar:
-https://viacep.com.br/ 
-https://pokeapi.co/
-https://openweathermap.org/
+- https://viacep.com.br/ 
+- https://pokeapi.co/
+- https://openweathermap.org/
 
 
 
